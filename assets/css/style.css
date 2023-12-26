@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0;
 }
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #1dcc17;
+    color: #1dcc17;
+}
+
+header {
+    background-color: #546A76;
+}
