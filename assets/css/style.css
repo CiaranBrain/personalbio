@@ -1,13 +1,4 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-a {
-    text-decoration: none;
-    color: blueviolet;
-    font-weight: bold;
-}
-
-.nav {
-    
+* {
+    margin: 0;
+    padding: 0;
 }
